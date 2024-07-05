@@ -1,2 +1,0 @@
-# Entrega
-## Taller 03
